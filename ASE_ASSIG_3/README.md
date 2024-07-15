@@ -34,10 +34,3 @@ Please download the provided link as a TXT or PDF file for easy access and refer
 
 By following this tutorial and completing the project, you will gain practical experience in coding and using GitHub for version control. This project serves as a hands-on exercise to enhance your coding skills and understanding of project implementation in a real-world scenario.
 
-# Contact Information
-
-For any questions or further assistance, please contact:
-
-Name: Verra Venkata Sai Kashyap Kaligotla
-Email: [Your Email Address]
-GitHub: [Your GitHub Profile Link]
